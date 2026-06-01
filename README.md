@@ -2,7 +2,7 @@
 
 An intelligent emergency vehicle signal override system that uses computer vision to detect ambulances in real time and automatically clears traffic signals — reducing response time and potentially saving lives.
 
-Built as a hackathon project at NeuraX 2.0, CMR.
+Built as a hackathon project at SIH, HITAM.
 
 ---
 
